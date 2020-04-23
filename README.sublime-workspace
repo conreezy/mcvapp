@@ -1,0 +1,411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"text-align-last\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"sel",
+				"selected_img"
+			],
+			[
+				"open",
+				"openfile"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"hosue",
+				"house_pic"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"page",
+				"pageTemplate1"
+			],
+			[
+				"draw",
+				"drawString"
+			],
+			[
+				"grid",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"ti",
+				"timezone"
+			],
+			[
+				"homes",
+				"home_designs_page"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bord",
+				"border-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"text-",
+				"text-shadow\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"my",
+				"my_cursor"
+			],
+			[
+				"rel",
+				"relheight"
+			],
+			[
+				"Contact",
+				"ContactPage"
+			],
+			[
+				"w",
+				"WIDTH"
+			],
+			[
+				"Figure",
+				"FigureCanvasTkAgg"
+			],
+			[
+				"figure",
+				"Figure"
+			],
+			[
+				"L",
+				"LARGE_FONT"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/dev/realestate"
+	],
+	"file_history":
+	[
+		"/D/dev/portfolio/style.css",
+		"/D/dev/portfolio/index.html",
+		"/D/dev/crm/crmapp.py",
+		"/D/dev/homesearch/src/staticfiles/style.css",
+		"/D/dev/homesearch/src/home_search/settings.py",
+		"/D/dev/portfolio/README.md",
+		"/D/dev/homesearch/README.md",
+		"/D/dev/crm/README.md",
+		"/C/Users/NewLawn/Desktop/New App/.gitignore",
+		"/C/Users/NewLawn/Desktop/New App/log.txt",
+		"/C/Users/NewLawn/Desktop/New App/login.html",
+		"/C/Users/NewLawn/Desktop/New App/app.js",
+		"/C/Users/NewLawn/Desktop/New App/dir2/app2.js",
+		"/C/Users/NewLawn/Desktop/New App/dir1/app1.js",
+		"/C/Users/NewLawn/Desktop/New App/README.md",
+		"/C/Users/NewLawn/Desktop/New App/index.html",
+		"/D/dev/homesearch/src/home_search/urls.py",
+		"/D/dev/homesearch/src/templates/index.html",
+		"/D/dev/homesearch/src/houses/templates/houses/list.html",
+		"/D/dev/homesearch/src/houses/views.py",
+		"/D/dev/homesearch/src/home_search/views.py",
+		"/D/dev/homesearch/src/houses/models.py",
+		"/D/dev/homesearch/src/templates/base.html",
+		"/D/dev/homesearch/src/templates/js.html",
+		"/D/dev/homesearch/src/houses/templates/houses/top_banner.html",
+		"/D/dev/homesearch/src/houses/templates/houses/list-inline.html",
+		"/D/dev/homesearch/src/houses/templates/houses/detail.html",
+		"/D/dev/homesearch/src/templates/available_homes.html",
+		"/D/dev/realestate/index.html",
+		"/D/dev/realestate/index",
+		"/D/dev/homesearch/src/templates/home.html",
+		"/D/dev/homesearch/src/houses/admin.py",
+		"/D/dev/homesearch/src/home_search/forms.py",
+		"/D/dev/homesearch/src/houses/urls.py",
+		"/D/dev/homesearch/src/houses/tests.py",
+		"/D/dev/crm/modules.py",
+		"/D/dev/homesearch/src/templates/form.html",
+		"/D/dev/homesearch/src/houses/templates/houses/form.html",
+		"/D/dev/homesearch/src/houses/forms.py",
+		"/D/dev/homesearch/src/templates/homes_designs.html",
+		"/D/dev/homesearch/src/templates/embrun.html",
+		"/D/dev/homesearch/src/templates/russell.html",
+		"/D/dev/homesearch/src/templates/top_banner.html",
+		"/C/Users/NewLawn/Desktop/dev-back-up/dev/crm/crmapp_x.py",
+		"/D/dev/crm/crmapp_x.py",
+		"/D/dev/crm/pdf_maker.py",
+		"/C/Users/NewLawn/Desktop/Dev Back-up/dev/crm/crmapp_x.py",
+		"/D/dev/homesearch/home_search.sublime-project",
+		"/D/python files/pdfwrite.py",
+		"/D/python files/pdfwclass.py",
+		"/D/python files/pdf2.py",
+		"/D/python files/old_pdf_maker.py",
+		"/D/crm/crmapp.py",
+		"/D/crm/modules.py",
+		"/D/dev/homesearch/src/houses/templates/houses/delete.html",
+		"/D/dev/melanie/src/templates/available_homes.html",
+		"/D/dev/melanie/src/houses/templates/houses/list.html",
+		"/D/dev/melanie/src/houses/templates/houses/form.html",
+		"/D/dev/melanie/src/templates/navbar.html",
+		"/D/dev/melanie/src/templates/base.html",
+		"/D/dev/melanie/src/houses/templates/houses/update.html",
+		"/D/dev/melanie/src/houses/templates/houses/detail.html",
+		"/D/dev/melanie/src/home_search/forms.py",
+		"/D/dev/melanie/src/houses/forms.py",
+		"/D/dev/melanie/src/houses/models.py",
+		"/D/dev/melanie/src/home_search/views.py",
+		"/D/dev/melanie/src/houses/urls.py",
+		"/D/dev/melanie/src/houses/tests.py",
+		"/D/dev/melanie/src/home_search/settings.py",
+		"/D/dev/melanie/home_search.sublime-project",
+		"/D/dev/homesearch/src/templates/footer.html",
+		"/D/dev/homesearch/src/templates/navbar.html",
+		"/D/dev/homesearch/src/static/style.css",
+		"/D/dev/homesearch/src/houses/templates/houses/navbar.html",
+		"/D/dev/homesearch/src/houses/templates/houses/create.html",
+		"/D/dev/homesearch/src/templates/contact.html",
+		"/D/dev/homesearch/src/templates/house_sale_detail.html",
+		"/D/dev/homesearch/src/houses/templates/house_sale_detail2.html",
+		"/D/dev/homesearch/static_cdn_test/blank/blank.txt",
+		"/D/dev/homesearch/src/staticfiles/blank.txt",
+		"/D/dev/homesearch/src/templates/homes.html",
+		"/D/dev/trydjango/src/try_django/urls.py",
+		"/D/dev/Melanie Construction/style.css",
+		"/D/dev/Melanie Construction/base_melanie.html",
+		"/D/dev/Boot Strap Tutorial/Bootstrap 4 Site Files/Bootstrap 4 Site Files/style.css",
+		"/D/dev/Boot Strap Tutorial/Bootstrap 4 Site Files/Bootstrap 4 Site Files/index.html",
+		"/D/dev/Boot Strap Tutorial/Bootstrap 4 Site Files/.DS_Store",
+		"/C/Users/NewLawn/Desktop/GetClizey/base.html",
+		"/D/crm/buttons.py",
+		"/B/dev/trydjango/LICENSE.txt",
+		"/B/dev/trydjango/trydjango",
+		"/B/dev/trydjango/src/db.sqlite3",
+		"/B/dev/trydjango/src/trydjango/settings.py",
+		"/B/dev/trydjango/src/products/models.py",
+		"/B/dev/trydjango/src/products/admin.py",
+		"/C/crm/crmapp.py",
+		"/C/crm/Starter code for crm app.py",
+		"/C/crm/chartexp.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
